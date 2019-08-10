@@ -8,7 +8,7 @@ $pkg install git
 $pkg install python
 $pip install requests
 $git clone https://github.com/Xractz/SFile
-$cd fsms
+$cd SFile
 $python sfile.py
 ```
 
